@@ -1,0 +1,71 @@
+[
+  {
+    "username": "Radhika",
+    "email": "radhikareddy.goli@gmail.com",
+    "password": "TNRARS@001",
+    "phone": "2468135799",
+    "age": 40,
+    "role": "landlord",
+    "favorites": [
+      "Cozy 2BHK Near Symbiosis Campus"
+    ]
+  },
+  {
+    "username": "Nakshatra",
+    "email": "nakshatrareddy.goli@gmail.com",
+    "password": "TNRARS@001",
+    "phone": "+91 7675954321",
+    "age": 18,
+    "role": "student",
+    "favorites": [
+      "Luxury Studio PG Room For Bachelors"
+    ]
+  },
+  {
+    "username": "Veerareddy",
+    "email": "veerareddy.goli@gmail.com",
+    "password": "TNRARS@001",
+    "phone": "8062538700",
+    "age": 48,
+    "role": "landlord",
+    "favorites": []
+  },
+  {
+    "username": "Venkat",
+    "email": "venkatreddy.nalla@gmail.com",
+    "password": "TNRARS@001",
+    "phone": "5217949563",
+    "age": 36,
+    "role": "landlord",
+    "favorites": []
+  },
+  {
+    "username": "Arundathi",
+    "email": "arundathireddy.pingili@gmail.com",
+    "password": "TNRARS@001",
+    "phone": "1357924680",
+    "age": 34,
+    "role": "landlord",
+    "favorites": []
+  },
+  {
+    "username": "Triveni",
+    "email": "trivenireddy.goli@gmail.com",
+    "password": "TNRARS@001",
+    "phone": "+91 8976543123",
+    "age": 20,
+    "role": "student",
+    "favorites": [
+      "Luxury Studio PG Room For Bachelors"
+    ]
+  },
+  {
+    "username": "Sumalatha",
+    "email": "sumareddy.pingili@gmail.com",
+    "password": "TNRARS@001",
+    "phone": "1234567890",
+    "age": 38,
+    "role": "landlord",
+    "favorites": []
+  }
+]
