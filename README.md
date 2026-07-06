@@ -22,8 +22,12 @@ Finding rental accommodation as a student or young working bachelor in Indian ci
 - Storage: Flat-file JSON
 
 ## Project Structure
+## Project Structure
+
+```
 streamlit-house-app/
-├── .streamlit/config.toml
+├── .streamlit/
+│   └── config.toml
 ├── data/
 │   ├── listings.json
 │   └── users.json
@@ -35,6 +39,7 @@ streamlit-house-app/
 │   ├── auth_views.py
 │   └── dashboards.py
 └── main.py
+```
 
 ## Setup & Installation
 
