@@ -56,14 +56,3 @@ streamlit run main.py
 - Geographic safety/proximity analysis near university hubs
 - Automated image compression for faster load times
 
-
-## Screenshots
-
-### Dashboard
-![Dashboard](assets/dashboard.png)
-
-### Login Screen
-![Login Screen](assets/sign-in-page.png)
-
-### Property Detail View
-![Property Detail](assets/property-detail.png)
