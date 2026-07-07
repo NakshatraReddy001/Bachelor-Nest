@@ -62,8 +62,12 @@ streamlit run main.py
 ![Dashboard](assets/dashboard.png)
 
 ### Login Screen
-![Login Screen](assets/sign-in-page.png)
+![Login Screen](assets/signinpage.png)
 
-### Property Detail View
-![Property Detail](assets/property-detail.png)
+### Favourites Page
+![Favourites Page](assets/favourites.png)
+
+### House Listing Form
+![House Listing Form](assets/listing form.png)
+
 
