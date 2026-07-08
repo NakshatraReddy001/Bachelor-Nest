@@ -67,7 +67,4 @@ streamlit run main.py
 ### Favourites Page
 ![Favourites Page](assets/favourites.png)
 
-### House Listing Form
-![House Listing Form](assets/listing form.png)
-
 
